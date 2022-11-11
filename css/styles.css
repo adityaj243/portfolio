@@ -1,0 +1,28 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-color: grey;
+  border-width: 6px;
+  border-style: dotted none none none;
+  width: 10%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+/****************************************************CLASS AS SELECTIVES*******************************************************/
+.topic1{
+  color: #9900F0;
+}
+/****************************************************ID'S AS SELECTIVES********************************************************/
+/*hover is a pseudo class*/
+#dp{
+  border-radius: 100%;
+}
